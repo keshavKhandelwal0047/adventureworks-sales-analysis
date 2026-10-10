@@ -24,7 +24,7 @@ The SQL scripts cover:
 ## Power BI Dashboard
 Open `power-bi/Sales Report.pbix` in Microsoft Power BI Desktop to explore the report.
 
-Add a screenshot of the dashboard here to provide a quick preview.
+Added a screenshot of the dashboard here to provide a quick preview.
 
 ## How to Run
 1. Restore the relevant database backup in SQL Server Management Studio (SSMS).
